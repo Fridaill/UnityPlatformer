@@ -12,11 +12,6 @@ public class Elevator : MonoBehaviour
     public float speed;
     bool iselevatordown;
   
-    void Start()
-    {
-        
-    }
-
   
     void Update()
     {
